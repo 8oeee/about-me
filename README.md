@@ -3,8 +3,8 @@
 # 👋 هلا بك، أنا سامر (Arch)
 ### 💻 مطور أنظمة، صانع ألعاب وخبرات رقمية | مبرمج ذاتي
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Arch8oe&color=blueviolet&style=flat-square)](https://github.com/Arch8oe)
-[![Discord Presence](https://img.shields.io/badge/Discord-@x6.0-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Arch8oe&color=blueviolet&style=flat-square)](https://github.com/8oeee)
+[![Discord Presence](https://img.shields.io/badge/Discord-@66y-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/66y)
 
 ---
 
